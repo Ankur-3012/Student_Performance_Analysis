@@ -22,3 +22,5 @@ The dataset `student_habits_performance.csv` contains information about student 
 ## Analysis
 
 The project explores correlations between various habits (such as study time, sleep patterns, extracurricular activities) and academic outcomes.
+
+<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/7b90efa9-a319-47a0-be0c-88eb9233a30e" />
